@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, js
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me Ms.Humpty#2301 on Discord
+- 📫 How to reach me Azima#2301 on Discord
 
 <!---
 AzimaKai/AzimaKai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
